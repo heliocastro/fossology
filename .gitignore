@@ -22,7 +22,7 @@ VERSION
 .#*
 tags
 php.ini
-
+.pc
 # compiled or derived files
 install/db/dbcreate
 install/defconf/Db.conf
